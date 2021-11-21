@@ -6,3 +6,5 @@ I am a recent Statistics and Mathematics graduate from the University of Florida
 
 ## My Projects
 [time_calculator](https://nprosado.github.io/time_calculator/)
+
+[arithmetic_formatter](https://nprosado.github.io/arithmetic_formatter/)
