@@ -10,3 +10,5 @@ I am a recent Statistics and Mathematics graduate from the University of Florida
 [arithmetic-formatter](https://nprosado.github.io/arithmetic_formatter/)
 
 [polygon-area-calculator](https://nprosado.github.io/polygon-area-calculator/)
+
+[probability-calculator](https://nprosado.github.io/probability-calculator/)
